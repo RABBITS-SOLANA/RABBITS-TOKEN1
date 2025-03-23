@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PUMP MEME Token</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #111;
+            color: white;
+            background-size: cover;
+            background-position: center;
+        }
+        .container {
+            padding: 50px;
+        }
+        .logo {
+            width: 150px;
+            margin-top: 50px;
+        }
+        .cta-button {
+            background-color: #ffcc00;
+            color: black;
+            padding: 15px 30px;
+            font-size: 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        .cta-button:hover {
+            background-color: #ffaa00;
+        }
+        .social-links a {
+            color: white;
+            text-decoration: none;
+            margin: 10px;
+            font-size: 18px;
+        }
+        .contract-address {
+            font-size: 20px;
+            margin-top: 20px;
+            word-wrap: break-word;
+            word-break: break-all;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- 代币 LOGO -->
+        <img src="https://vimeo.com/1066448952/e65d2e2ad0/logo.png" alt="RABBITS TOKEN Logo" class="logo">
+
+        <h1>RABBITS Token</h1>
+        <p>"Flying to the Moon with RABBITS The Most Popular RABBITS MEMECOIN on the SOLANA Blockchain" 🚀</p>
+
+        <!-- 合约地址 -->
+        <p class="contract-address">Contract Address: <b>"Coming Soon To Be Announced"</b></p>
+
+        <!-- 跳转按钮 -->
+        <button class="cta-button" onclick="window.location.href='https://x.com/Rabbitscoin2025'">Follow us on Twitter 🐦</button>
+        <button class="cta-button" onclick="window.location.href='https://t.me/Rabbitsmemes'">Join our Telegram 💬</button>
+    </div>
+</body>
+</html>
